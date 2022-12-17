@@ -1,0 +1,127 @@
+.section-top{
+  background-image: url('images/donation6.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+
+.div-top-head{
+    font-size: x-large;
+    text-align: center;
+    padding-top: 10%;
+    color: white;
+    
+}
+
+.div-top-para {
+    text-align: center;
+    color: white;
+    padding-bottom: 15%;
+
+}
+.donate-now{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    background-image: linear-gradient(orange, red);
+    border-radius: 5px;
+
+}
+.div-middle h2{
+    text-align: center;
+    padding-top: 5%;
+}
+.div-middle p{
+    text-align: center;
+}
+.half-width{
+    display: flex;
+    margin-left: 30%;
+
+}
+.w3-card-2{
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+
+}
+.div-color{
+    color: red;
+    border: 1px solid red;
+}
+.div-input{
+    margin-left: 40%;
+    text-align: center;
+}
+input{
+    border: none;
+    outline: none;
+
+}
+.horizental{
+    width: 50%;
+    margin-left: 22%;
+}
+.section-input{
+    margin-top: 3%;
+}
+.donate-now1{
+    margin-left: 40%;
+    padding: 10px;
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    border-radius: 10px;
+    color: white;
+
+}
+.our-donate-plan h3{
+    margin-left: 37%;
+    margin-top: 5%;
+}
+.our-donate-plan p{
+    margin-left: 30%;
+}
+.food-section{
+    display: flex;
+}
+.food-div{
+    background-color: skyblue;
+    margin-left: 5%;
+    width: 28%;
+    height: 40%;
+    padding: 30px;
+    border-radius: 5px;
+
+}
+.food-img{
+   height: 40px;
+   width: 40px;
+
+}
+.shelter-div{
+    background-color:lightpink;
+    margin-left: 2%;
+    width: 28%;
+    height: 40%;
+    padding: 30px;
+    border-radius: 5px;
+
+}
+.shelter-img{
+    height: 40px;
+    width: 40px;
+}
+.education-div{
+    background-color:lightgoldenrodyellow;
+    margin-left: 2%;
+    width: 28%;
+    height: 40%;
+    padding: 30px;
+    border-radius: 5px;
+
+}
+.education-img{
+    height: 40px;
+    width: 40px;
+}
